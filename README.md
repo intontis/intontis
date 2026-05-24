@@ -22,4 +22,4 @@
 ---
 
 ## 📚 Currently Trying to Learn
-- 🗄️ SQL for data management
+🗄️ SQL for data management
