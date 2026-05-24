@@ -3,8 +3,8 @@
 # Welcome to my Profile
 
 I'm a Physicist, passionate about turning physical problems 
-into computational solutions. I build projects at the intersection 
-of scientific modeling, data analysis and machine learning.
+into computational solutions. I enjoy applying physics thinking to real problems through 
+simulation, data analysis and code.
 
 Feel free to explore my pinned repositories below — each one 
 tackles a real-world problem using physics-based thinking and 
