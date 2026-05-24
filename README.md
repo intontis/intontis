@@ -4,7 +4,8 @@
 
 I'm a Physicist, passionate about applying physics thinking to real problems through simulation, data analysis and code.
 
-Feel free to explore my pinned repositories below
+Feel free to explore my pinned repositories below:
+[complete repository list](https://github.com/intontis?tab=repositories)
 
 Each one tackles a real-world problem using physics-based thinking and 
 Python. All projects include detailed READMEs explaining the 
