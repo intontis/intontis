@@ -2,9 +2,7 @@
 
 # Welcome to my Profile
 
-I'm a Physicist, passionate about turning physical problems 
-into computational solutions. I enjoy applying physics thinking to real problems through 
-simulation, data analysis and code.
+I'm a Physicist, passionate about applying physics thinking to real problems through simulation, data analysis and code.
 
 Feel free to explore my pinned repositories below — each one 
 tackles a real-world problem using physics-based thinking and 
