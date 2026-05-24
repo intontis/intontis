@@ -18,7 +18,9 @@ I'm a Physicist, passionate about applying physics thinking to real problems thr
 
 ---
 
->✅ Each one tackles a real-world problem using physics-based thinking and Python
+⚡ Each one tackles a real-world problem using physics-based thinking and Python
+
+💡 Every project starts with a physical question and ends with a computational answer
 
 ✅ All projects include detailed READMEs explaining the science behind the code
 
