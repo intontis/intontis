@@ -2,7 +2,7 @@
 
 # Hi, I'm John 👋
 
-# Physics Graduate 
+## Physics Graduate 
 
 *Applying physics intuition to real-world problems using vscode*
 
