@@ -3,6 +3,7 @@
 # Welcome to my Profile
 
 ► Physicist ◄
+
 Passionate about applying physics thinking to real problems through simulation, data analysis and code.
 
 ---
