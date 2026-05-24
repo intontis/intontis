@@ -4,8 +4,8 @@
 
 I'm a Physicist, passionate about applying physics thinking to real problems through simulation, data analysis and code.
 
-Feel free to explore my pinned repositories below — each one 
-tackles a real-world problem using physics-based thinking and 
+Feel free to explore my pinned repositories below
+each one tackles a real-world problem using physics-based thinking and 
 Python. All projects include detailed READMEs explaining the 
 science behind the code.
 
