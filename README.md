@@ -4,6 +4,8 @@
 
 I'm a Physicist, passionate about applying physics thinking to real problems through simulation, data analysis and code.
 
+---
+
 Feel free to explore my projects below:
 
 ✈️ [![01_anomaly_detector](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=01_anomaly_detector&theme=dark&hide_border=true)](https://github.com/intontis/01_anomaly_detector)
