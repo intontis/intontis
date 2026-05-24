@@ -2,11 +2,14 @@
 
 # Welcome to my Profile
 
-## I'm John
+I'm a Physicist, passionate about turning physical problems 
+into computational solutions. I build projects at the intersection 
+of scientific modeling, data analysis and machine learning.
 
-### Physics Graduate 
-
-*Applying physics intuition to real-world problems*
+Feel free to explore my pinned repositories below — each one 
+tackles a real-world problem using physics-based thinking and 
+Python. All projects include detailed READMEs explaining the 
+science behind the code.
 
 ---
 
