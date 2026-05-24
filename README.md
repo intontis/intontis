@@ -6,7 +6,7 @@
 
 ### Physics Graduate 
 
-*Applying physics intuition to real-world problems using vscode*
+*Applying physics intuition to real-world problems*
 
 ---
 
