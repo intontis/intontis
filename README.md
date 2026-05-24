@@ -16,7 +16,7 @@ Feel free to explore my projects below:
 
 🚁 [![04_drone_pid_stabilizer](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=04_drone_pid_stabilizer&theme=dark&hide_border=true)](https://github.com/intontis/04_drone_pid_stabilizer)
 
-✅ Each one tackles a real-world problem using physics-based thinking and Python
+✅ Each one tackles a real-world problem using physics-based thinking and Python.
 ✅ All projects include detailed READMEs explaining the science behind the code
 
 ---
