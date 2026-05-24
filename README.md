@@ -8,8 +8,6 @@
 
 *Applying physics intuition to real-world problems using vscode*
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
