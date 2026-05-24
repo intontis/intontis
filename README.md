@@ -23,17 +23,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Giannis's GitHub stats](https://github-readme-stats.vercel.app/api?username=intontis&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intontis&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 📚 Currently Trying to Learn
 - 🗄️ SQL for data management
