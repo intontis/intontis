@@ -2,9 +2,7 @@
 
 # Welcome to my Profile
 
-► Physicist ◄
-
-Passionate about applying physics thinking to real problems through simulation, data analysis and code.
+I'm a Physicist, who is passionate about applying physics thinking to real problems through simulation, data analysis and code.
 
 ---
 
