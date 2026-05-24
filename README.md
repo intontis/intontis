@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm John 👋
+# Welcome to my Profile
 
-## Physics Graduate 
+## I'm John
+
+### Physics Graduate 
 
 *Applying physics intuition to real-world problems using vscode*
 
