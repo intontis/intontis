@@ -8,7 +8,7 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 
 ℹ️ Feel free to explore my projects below:
 
-✈️ [![Anomaly Detector](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=01_anomaly_detector&theme=dark&hide_border=true)](https://github.com/intontis/01_anomaly_detector)
+🚀 [![Anomaly Detector](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=01_anomaly_detector&theme=dark&hide_border=true)](https://github.com/intontis/01_anomaly_detector)
 
 ⚛️ [![Monte Carlo Simulation](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=02_monte_carlo_simulation_toolkit&theme=dark&hide_border=true)](https://github.com/intontis/02_monte_carlo_simulation_toolkit)
 
