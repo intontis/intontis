@@ -38,9 +38,4 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 
 ---
 
-## 📚 Currently Trying to Learn
-🗄️ SQL for data management
-
----
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=intontis.intontis)
