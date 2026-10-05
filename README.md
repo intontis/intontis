@@ -8,13 +8,13 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 
 ℹ️ Feel free to explore my projects below:
 
-[Monte Carlo](https://github.com/intontis/01_monte_carlo_simulations)
+[Monte Carlo Simulations](https://github.com/intontis/01_monte_carlo_simulations)
 
--[Pharmacokinetics](https://github.com/intontis/02_pharmacokinetics_simulator)
+[Pharmacokinetics Simulator](https://github.com/intontis/02_pharmacokinetics_simulator)
 
 [Drone PID Stabilizer](https://github.com/intontis/03_drone_pid_stabilizer)
 
-![Anomaly Detector](https://github.com/intontis/04_anomaly_detector)
+[Anomaly Detector](https://github.com/intontis/04_anomaly_detector)
 
 ---
 
