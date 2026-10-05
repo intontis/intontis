@@ -35,7 +35,6 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pytest](https://shields.io)
 
 ---
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=intontis.intontis)
