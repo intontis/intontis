@@ -12,7 +12,7 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 
 ![Pharmacokinetics](https://github.com/intontis/02_pharmacokinetics_simulator)
 
-Drone PID Stabilizer(https://github.com/intontis/03_drone_pid_stabilizer)
+[Drone PID Stabilizer](https://github.com/intontis/03_drone_pid_stabilizer)
 
 ![Anomaly Detector](https://github.com/intontis/04_anomaly_detector)
 
