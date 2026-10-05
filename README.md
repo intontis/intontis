@@ -10,7 +10,7 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 
 [Monte Carlo](https://github.com/intontis/01_monte_carlo_simulations)
 
-![Pharmacokinetics](https://github.com/intontis/02_pharmacokinetics_simulator)
+-[Pharmacokinetics](https://github.com/intontis/02_pharmacokinetics_simulator)
 
 [Drone PID Stabilizer](https://github.com/intontis/03_drone_pid_stabilizer)
 
