@@ -8,13 +8,13 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 
 ℹ️ Feel free to explore my projects below:
 
-[(https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=01_monte_carlo_simulations&theme=dark&hide_border=true)](https://github.com/intontis/01_monte_carlo_simulations)
+[!Monte Caro](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=01_monte_carlo_simulations&theme=dark&hide_border=true)](https://github.com/intontis/01_monte_carlo_simulations)
 
-[(https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=02_pharmacokinetics_simulator&theme=dark&hide_border=true)](https://github.com/intontis/02_pharmacokinetics_simulator)
+[Pharmacokinetics](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=02_pharmacokinetics_simulator&theme=dark&hide_border=true)](https://github.com/intontis/02_pharmacokinetics_simulator)
 
-[(https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=03_drone_pid_stabilizer&theme=dark&hide_border=true)](https://github.com/intontis/03_drone_pid_stabilizer)
+[Drone PID Stabilizer](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=03_drone_pid_stabilizer&theme=dark&hide_border=true)](https://github.com/intontis/03_drone_pid_stabilizer)
 
-[(https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=04_anomaly_detector&theme=dark&hide_border=true)](https://github.com/intontis/04_anomaly_detector)
+[Anomaly Detector](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=04_anomaly_detector&theme=dark&hide_border=true)](https://github.com/intontis/04_anomaly_detector)
 
 ---
 
