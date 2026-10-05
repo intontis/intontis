@@ -8,7 +8,7 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 
 ℹ️ Feel free to explore my projects below:
 
-[![Monte Carlo](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=02_monte_carlo_simulation_toolkit&theme=dark&hide_border=true)](https://github.com/intontis/02_monte_carlo_simulation_toolkit)
+[![Monte Carlo](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=01_monte_carlo_simulations&theme=dark&hide_border=true)](https://github.com/intontis/01_monte_carlo_simulations)
 
 [![Pharmacokinetics](https://github-readme-stats.vercel.app/api/pin/?username=intontis&repo=02_pharmacokinetics_simulator&theme=dark&hide_border=true)](https://github.com/intontis/02_pharmacokinetics_simulator)
 
