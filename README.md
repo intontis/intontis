@@ -6,7 +6,7 @@ I'm a Physicist, who is passionate about applying physics thinking to real probl
 
 ---
 
-ℹ️ Feel free to explore my projects below:
+Feel free to explore my projects below:
 
 [Monte Carlo Simulations](https://github.com/intontis/01_monte_carlo_simulations)
 
