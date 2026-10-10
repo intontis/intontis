@@ -14,7 +14,6 @@ Feel free to explore my projects below:
 
 [Drone PID Stabilizer](https://github.com/intontis/03_drone_pid_stabilizer)
 
-[Anomaly Detector](https://github.com/intontis/04_anomaly_detector)
 
 ---
 
