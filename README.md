@@ -37,6 +37,7 @@ Feel free to explore my projects below:
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![tests](https://github.com/intontis/02_monte_carlo_simulation_toolkit/actions/workflows/tests.yml/badge.svg)
 
 
 ---
