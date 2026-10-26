@@ -2,7 +2,27 @@
 
 # Welcome to my Profile
 
-I'm a Physicist, who is passionate about applying physics thinking to real problems through simulation, data analysis and code.
+I'm a Physicist, who is passionate about about Linux, automation, cloud technologies, and the tools that help teams build, deploy, and maintain reliable software.
+
+I'm currently developing my skills in:
+
+🐧 Linux & Bash — Command-line tools, shell scripting, and system administration
+
+🔧 Git & GitHub — Version control and collaborative workflows
+
+🐳 Docker — Containerization and application deployment
+
+⚙️ CI/CD — Automating build, test, and deployment pipelines
+
+☁️ Cloud & Infrastructure as Code — Learning to manage infrastructure efficiently
+
+---
+
+🎯 My goal: To become a skilled DevOps Engineer by building practical projects, automating workflows, and continuously learning industry best practices.
+
+📂 This GitHub is where I document my learning journey, share projects, and turn theory into hands-on experience.
+
+Always learning. Always building. Always improving.
 
 ---
 
