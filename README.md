@@ -3,7 +3,6 @@
 # Welcome to my Profile
 
 -
-
 I'm a physicist exploring DevOps, with hands-on experience running local Kubernetes clusters and using AWS EC2 instances for testing. I'm interested in Linux, automation, cloud technologies, and the tools that help teams build, deploy, and maintain reliable software.
 -
 
