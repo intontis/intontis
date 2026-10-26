@@ -8,23 +8,25 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 ---
 
-🛠️ Technologies & Areas of Interest
+🛠️ Technologies & What I've Learned
 
-🐧 Linux & Bash — Command-line tools, shell scripting, and system administration
+🐧 Linux & Bash — Command-line tools, shell scripting, file permissions, user management, process management, and system monitoring
 
-🐍 Python — Scripting, automation, and problem-solving
+🐍 Python — Exploring scripting and automation for system administration and API interactions
 
-🔧 Git & GitHub — Version control and collaborative workflows
+🔧 Git & GitHub — Version control and repository-based workflows
 
-🐳 Docker & Kubernetes — Containerization, orchestration, and application deployment
+🐳 Docker — Container images, containers, volumes, networking, and multi-stage builds
 
-⚙️ CI/CD & GitOps — Pipeline automation and consistent, repeatable deployments
+☸️ Kubernetes — Cluster architecture, deployments, pods, services, YAML manifests, scaling, and self-healing
 
-☸️ OpenShift & Helm — Exploring Kubernetes-based platforms and application deployment
+⚙️ CI/CD & GitOps — Pipeline concepts, GitHub Actions, Argo CD, automated deployments, and configuration reconciliation
 
-☁️ Cloud Technologies — Experimenting with AWS and learning cloud infrastructure concepts
+📦 Helm — Kubernetes package management, charts, templates, and configuration through values files
 
-🔍 Troubleshooting & Automation — Understanding system behavior, investigating issues, and automating repetitive tasks
+🚀 OpenShift — Exploring enterprise Kubernetes platforms, including Azure Red Hat OpenShift (ARO) and Red Hat OpenShift Service on AWS (ROSA)
+
+☁️ Cloud Fundamentals — AWS EC2 and EBS, Azure resource groups and virtual networks, and concepts such as scalability, availability, and virtualization
 
 ---
 
