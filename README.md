@@ -2,7 +2,7 @@
 
 # Welcome to my Profile
 
-I'm a physicist building practical skills in DevOps, Linux, automation, and cloud-native technologies.
+I'm a physicist currently building my skills in DevOps, Linux, automation, and cloud-native technologies.
 
 I've experimented with local Kubernetes clusters using Minikube and AWS EC2 instances for testing. I'm interested in how infrastructure, automation, and modern deployment workflows come together to help teams build, deploy, and maintain reliable systems.
 
@@ -10,23 +10,19 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 ## Technologies & Areas of Interest
 
-🐧 **Linux & Bash** — Command-line tools, shell scripting, file permissions, user management, process management, and system monitoring
+🐧 **Linux & Bash** — Shell scripting, system administration, and process management
 
-🐍 **Python** — Exploring scripting and automation for system administration and API interactions
+🐍 **Python** — Scientific computing, scripting, and automation
 
-🔧 **Git & GitHub** — Version control and repository-based workflows
+🔧 **Git & GitHub** — Version control, testing workflows, and CI automation
 
-🐳 **Docker** — Container images, containers, volumes, networking, and multi-stage builds
+🐳 **Docker & Kubernetes** — Containerization, orchestration, and application deployment
 
-☸️ **Kubernetes** — Cluster architecture, deployments, pods, services, YAML manifests, scaling, and self-healing
+⚙️ **CI/CD & GitOps** — Automated pipelines and deployment workflows
 
-⚙️ **CI/CD & GitOps** — Pipeline concepts, GitHub Actions, Argo CD, automated deployments, and configuration reconciliation
+📦 **Helm & OpenShift** — Kubernetes package management and enterprise container platforms
 
-📦 **Helm** — Kubernetes package management, charts, templates, and configuration through values files
-
-🚀 **OpenShift** — Exploring enterprise Kubernetes platforms, including Azure Red Hat OpenShift (ARO) and Red Hat OpenShift Service on AWS (ROSA)
-
-☁️ **Cloud Fundamentals** — AWS EC2 and EBS, Azure resource groups and virtual networks, and concepts such as scalability, availability, and virtualization
+☁️ **Cloud Fundamentals** — cloud infrastructure fundamentals
 
 ---
 
