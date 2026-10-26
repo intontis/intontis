@@ -26,7 +26,7 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 ---
 
-📂 **Projects**
+📂# Projects
 
 [Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
