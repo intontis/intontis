@@ -2,29 +2,35 @@
 
 # Welcome to my Profile
 
-I'm a physicist exploring DevOps, with hands-on experience running local Kubernetes clusters and using AWS EC2 instances for testing. I'm interested in Linux, automation, cloud technologies, and the tools that help teams build, deploy, and maintain reliable software.
+I'm a physicist building practical skills in DevOps, Linux, automation, and cloud-native technologies.
+
+I've experimented with local Kubernetes clusters using Minikube and AWS EC2 instances for testing. I'm interested in how infrastructure, automation, and modern deployment workflows come together to help teams build, deploy, and maintain reliable systems.
 
 ---
 
-I'm currently developing my skills in:
+🛠️ Technologies & Areas of Interest
 
 🐧 Linux & Bash — Command-line tools, shell scripting, and system administration
 
+🐍 Python — Scripting, automation, and problem-solving
+
 🔧 Git & GitHub — Version control and collaborative workflows
 
-🐳 Docker — Containerization and application deployment
+🐳 Docker & Kubernetes — Containerization, orchestration, and application deployment
 
-⚙️ CI/CD — Automating build, test, and deployment pipelines
+⚙️ CI/CD & GitOps — Pipeline automation and consistent, repeatable deployments
 
-☁️ Cloud & Infrastructure as Code — Learning to manage infrastructure efficiently
+☸️ OpenShift & Helm — Exploring Kubernetes-based platforms and application deployment
+
+☁️ Cloud Technologies — Experimenting with AWS and learning cloud infrastructure concepts
+
+🔍 Troubleshooting & Automation — Understanding system behavior, investigating issues, and automating repetitive tasks
 
 ---
 
-🎯 My goal: To become a skilled DevOps Engineer by building practical projects, automating workflows, and continuously learning industry best practices.
+🎯 My goal: To become a DevOps Engineer by building practical projects, automating workflows, and continuously learning industry best practices.
 
 📂 This GitHub is where I document my learning journey, share projects, and turn theory into hands-on experience.
-
-Always learning. Always building. Always improving.
 
 ---
 
