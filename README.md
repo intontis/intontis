@@ -14,19 +14,19 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 🐍 **Python** — Exploring scripting and automation for system administration and API interactions
 
-🔧 Git & GitHub — Version control and repository-based workflows
+🔧 **Git & GitHub** — Version control and repository-based workflows
 
-🐳 Docker — Container images, containers, volumes, networking, and multi-stage builds
+🐳 **Docker** — Container images, containers, volumes, networking, and multi-stage builds
 
-☸️ Kubernetes — Cluster architecture, deployments, pods, services, YAML manifests, scaling, and self-healing
+☸️ **Kubernetes** — Cluster architecture, deployments, pods, services, YAML manifests, scaling, and self-healing
 
-⚙️ CI/CD & GitOps — Pipeline concepts, GitHub Actions, Argo CD, automated deployments, and configuration reconciliation
+⚙️ **CI/CD & GitOps** — Pipeline concepts, GitHub Actions, Argo CD, automated deployments, and configuration reconciliation
 
-📦 Helm — Kubernetes package management, charts, templates, and configuration through values files
+📦 **Helm** — Kubernetes package management, charts, templates, and configuration through values files
 
-🚀 OpenShift — Exploring enterprise Kubernetes platforms, including Azure Red Hat OpenShift (ARO) and Red Hat OpenShift Service on AWS (ROSA)
+🚀 **OpenShift** — Exploring enterprise Kubernetes platforms, including Azure Red Hat OpenShift (ARO) and Red Hat OpenShift Service on AWS (ROSA)
 
-☁️ Cloud Fundamentals — AWS EC2 and EBS, Azure resource groups and virtual networks, and concepts such as scalability, availability, and virtualization
+☁️ **Cloud Fundamentals** — AWS EC2 and EBS, Azure resource groups and virtual networks, and concepts such as scalability, availability, and virtualization
 
 ---
 
