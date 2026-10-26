@@ -22,11 +22,11 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 📦 **Helm & OpenShift** — Kubernetes package management and enterprise container platforms
 
-☁️ **Cloud Fundamentals** — cloud infrastructure fundamentals
+☁️ **Cloud Technologies** — AWS EC2, EBS, and cloud infrastructure fundamentals
 
 ---
 
-Feel free to explore my projects below:
+📂 **Projects**
 
 [Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
