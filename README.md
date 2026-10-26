@@ -8,7 +8,7 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 ---
 
-🛠️ Technologies & What I've Learned
+# 🛠️ Technologies & Areas of Interest
 
 🐧 Linux & Bash — Command-line tools, shell scripting, file permissions, user management, process management, and system monitoring
 
