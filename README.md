@@ -22,7 +22,7 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 📦 **Helm & OpenShift** — Kubernetes package management and enterprise container platforms
 
-☁️ **Cloud Technologies** — AWS EC2, EBS, and cloud infrastructure fundamentals
+☁️ **Cloud Technologies** — AWS EC2 and cloud infrastructure fundamentals
 
 ---
 
