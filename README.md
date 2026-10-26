@@ -10,16 +10,8 @@ Feel free to explore my projects below:
 
 [Monte Carlo Simulations](https://github.com/intontis/01_monte_carlo_simulations)
 
-[Pharmacokinetics Simulator](https://github.com/intontis/02_pharmacokinetics_simulator)
-
-[Drone PID Stabilizer](https://github.com/intontis/03_drone_pid_stabilizer)
-
 
 ---
-
-⚡ Each one tackles a real-world problem using physics-based thinking and Python.
-
-💡 Every project starts with a physical question and ends with a computational answer.
 
 ✅ All projects include detailed READMEs explaining the science behind the code.
 
