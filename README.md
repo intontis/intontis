@@ -8,11 +8,11 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 ---
 
-# 🛠️ Technologies & Areas of Interest
+## 🛠️ Technologies & Areas of Interest
 
-🐧 Linux & Bash — Command-line tools, shell scripting, file permissions, user management, process management, and system monitoring
+🐧 **Linux & Bash** — Command-line tools, shell scripting, file permissions, user management, process management, and system monitoring
 
-🐍 Python — Exploring scripting and automation for system administration and API interactions
+🐍 **Python** — Exploring scripting and automation for system administration and API interactions
 
 🔧 Git & GitHub — Version control and repository-based workflows
 
