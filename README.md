@@ -30,12 +30,6 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 ---
 
-🎯 My goal: To become a DevOps Engineer by building practical projects, automating workflows, and continuously learning industry best practices.
-
-📂 This GitHub is where I document my learning journey, share projects, and turn theory into hands-on experience.
-
----
-
 Feel free to explore my projects below:
 
 [Monte Carlo Simulations](https://github.com/intontis/01_monte_carlo_simulations)
