@@ -2,7 +2,7 @@
 
 # Welcome to my Profile
 
-I'm a physicist currently building my skills in DevOps, Linux, automation, and cloud-native technologies.
+I'm a physicist currently building my skills in DevOps, Linux, automation, and cloud technologies.
 
 I've experimented with local Kubernetes clusters using Minikube and AWS EC2 instances for testing. I'm interested in how infrastructure, automation, and modern deployment workflows come together to help teams build, deploy, and maintain reliable systems.
 
