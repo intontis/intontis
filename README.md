@@ -28,7 +28,7 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 Feel free to explore my projects below:
 
-[Monte Carlo Simulations](https://github.com/intontis/01_monte_carlo_simulations)
+[Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
 ---
 
