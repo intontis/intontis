@@ -2,7 +2,7 @@
 
 # Welcome to my Profile
 
-I'm a Physicist, who is passionate about about Linux, automation, cloud technologies, and the tools that help teams build, deploy, and maintain reliable software.
+I'm a physicist exploring DevOps, with hands-on experience running local Kubernetes clusters and using AWS EC2 instances for testing. I'm interested in Linux, automation, cloud technologies, and the tools that help teams build, deploy, and maintain reliable software.
 
 I'm currently developing my skills in:
 
