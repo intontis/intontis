@@ -43,5 +43,3 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![tests](https://github.com/intontis/02_monte_carlo_simulation_toolkit/actions/workflows/tests.yml/badge.svg)
-
----
