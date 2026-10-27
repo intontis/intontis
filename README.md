@@ -32,10 +32,6 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 ---
 
-✅ All projects include detailed READMEs explaining the science behind the code.
-
----
-
 ## 🛠️ Tech Stack
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
