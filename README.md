@@ -42,4 +42,4 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![tests](https://github.com/intontis/02_monte_carlo_simulation_toolkit/actions/workflows/tests.yml/badge.svg)
+[![CI: Tests and Container](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml/badge.svg)](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml)
