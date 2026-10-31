@@ -8,23 +8,23 @@ I'm a physicist currently building my skills in DevOps, Linux, automation and cl
 
 ## Technologies & Technical Experience
 
-**Python** — Scientific computing, data analysis, numerical methods, scripting, and automation
+**Python** — Scientific computing, data analysis, numerical methods, scripting and automation
 
-**Linux & Bash** — RHEL, WSL2, shell scripting, system administration, process management
+**Linux & Bash** — RHEL, WSL2, shell scripting, system administration and process management
 
-**Git & GitHub** — Version control, repository management, branching workflows, GitHub Actions, and CI automation
+**Git & GitHub** — Version control, repository management, branching workflows, GitHub Actions and CI automation
 
-**Testing & Code Quality** — pytest, test coverage, Ruff, automated testing, and quality gates
+**Testing & Code Quality** — pytest, test coverage, Ruff, automated testing and quality gates
 
-**Containers & Containerization** — Docker, Podman, Dockerfiles, image builds, and GitHub Container Registry (GHCR)
+**Containers & Containerization** — Docker, Podman, Dockerfiles, image builds and GitHub Container Registry (GHCR)
 
 **Kubernetes & OpenShift** — Container orchestration, Kubernetes Jobs, persistent volumes and OpenShift administration
 
-**CI/CD & GitOps** — Automated pipelines, GitHub Actions, Azure Pipelines, deployment workflows, and Argo CD
+**CI/CD & GitOps** — Automated pipelines, GitHub Actions, Azure Pipelines, deployment workflows and Argo CD
 
-**Helm** — Kubernetes charts, application packaging, templating, and configurable deployments
+**Helm** — Kubernetes charts, application packaging, templating and configurable deployments
 
-**Cloud Technologies** — AWS EC2, Azure infrastructure, cloud networking, and deployment fundamentals
+**Cloud Technologies** — AWS EC2, Azure infrastructure, cloud networking and deployment fundamentals
 
 ---
 
