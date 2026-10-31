@@ -30,7 +30,7 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 [Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
-Developed a Python Monte Carlo simulation project covering π estimation and Rutherford scattering, with reusable modules, automated testing and visualization. Implemented a GitHub Actions CI pipeline with Ruff, pytest, an 80% coverage gate and a Python 3.12–3.14 test matrix. Built and published container images to GHCR, then deployed and validated Kubernetes Jobs with persistent storage on OpenShift. Developed in RHEL 10.2 under WSL2 using an isolated Python virtual environment.
+Developed a Python Monte Carlo simulation project with reusable modules, automated testing and visualization. Implemented a GitHub Actions CI pipeline with Ruff, pytest, an 80% coverage gate and a Python 3.12–3.14 test matrix. Built and published container images to GHCR, then deployed and validated Kubernetes Jobs with persistent storage on OpenShift. Developed in RHEL 10.2 under WSL2 using an isolated Python virtual environment.
 
 ---
 
