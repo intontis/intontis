@@ -30,6 +30,7 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 [Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
+Ruff and pytest with an 80% coverage gate, a test matrix on Python 3.12 to 3.14, an image published to GHCR, and Kubernetes Jobs with a PVC on OpenShift. Add the EFK lab and a “Helm + Argo CD (in progress)” line when you have them.
 ---
 
 ## 🛠️ Tech Stack
