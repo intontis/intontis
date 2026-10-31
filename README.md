@@ -8,9 +8,9 @@ I'm a physicist currently building my skills in DevOps, Linux, automation and cl
 
 ## Technologies & Technical Experience
 
-**Linux & Bash** — RHEL, WSL2, shell scripting, system administration, process management
-
 **Python** — Scientific computing, data analysis, numerical methods, scripting, and automation
+
+**Linux & Bash** — RHEL, WSL2, shell scripting, system administration, process management
 
 **Git & GitHub** — Version control, repository management, branching workflows, GitHub Actions, and CI automation
 
