@@ -20,7 +20,7 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 **Containers & Containerization** — Docker, Podman, Dockerfiles, image builds, and GitHub Container Registry (GHCR)
 
-**Kubernetes & OpenShift** — Container orchestration, Kubernetes Jobs, persistent volumes, storage, workload deployment, and OpenShift administration
+**Kubernetes & OpenShift** — Container orchestration, Kubernetes Jobs, persistent volumes and OpenShift administration
 
 **CI/CD & GitOps** — Automated pipelines, GitHub Actions, Azure Pipelines, deployment workflows, and Argo CD
 
