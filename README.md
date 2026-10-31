@@ -8,21 +8,25 @@ I've experimented with local Kubernetes clusters using Minikube and AWS EC2 inst
 
 ---
 
-## Technologies & Areas of Interest
+## Technologies & Technical Experience
 
-🐧 **Linux & Bash** — Shell scripting, system administration, and process management
+**Linux & Bash** — RHEL, WSL2, shell scripting, system administration, process management
 
-🐍 **Python** — Scientific computing, scripting, and automation
+**Python** — Scientific computing, data analysis, numerical methods, scripting, and automation
 
-🔧 **Git & GitHub** — Version control, testing workflows, and CI automation
+**Git & GitHub** — Version control, repository management, branching workflows, GitHub Actions, and CI automation
 
-🐳 **Docker & Kubernetes** — Containerization, orchestration, and application deployment
+**Testing & Code Quality** — pytest, test coverage, Ruff, automated testing, and quality gates
 
-⚙️ **CI/CD & GitOps** — Automated pipelines and deployment workflows
+**Containers & Containerization** — Docker, Podman, Dockerfiles, image builds, and GitHub Container Registry (GHCR)
 
-📦 **Helm & OpenShift** — Kubernetes package management and enterprise container platforms
+**Kubernetes & OpenShift** — Container orchestration, Kubernetes Jobs, persistent volumes, storage, workload deployment, and OpenShift administration
 
-☁️ **Cloud Technologies** — AWS EC2 and cloud infrastructure fundamentals
+**CI/CD & GitOps** — Automated pipelines, GitHub Actions, Azure Pipelines, deployment workflows, and Argo CD
+
+**Helm** — Kubernetes charts, application packaging, templating, and configurable deployments
+
+**Cloud Technologies** — AWS EC2, Azure infrastructure, cloud networking, and deployment fundamentals
 
 ---
 
@@ -34,7 +38,7 @@ A project with reusable modules, automated testing and visualization. Implemente
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
