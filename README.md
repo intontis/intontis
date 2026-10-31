@@ -2,7 +2,7 @@
 
 # Welcome to my Profile
 
-I'm a physicist currently building my skills in DevOps, Linux, automation, and cloud technologies.
+I'm a physicist currently building my skills in DevOps, Linux, automation and cloud technologies.
 
 ---
 
