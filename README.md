@@ -36,7 +36,6 @@ Ruff and pytest with an 80% coverage gate, a test matrix on Python 3.12 to 3.14,
 
 ## 🛠️ Tech Stack
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,3 +45,4 @@ Ruff and pytest with an 80% coverage gate, a test matrix on Python 3.12 to 3.14,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [![CI: Tests and Container](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml/badge.svg)](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
