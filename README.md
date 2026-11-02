@@ -37,9 +37,3 @@ An interactive Flask and PostgreSQL application used to build an end-to-end Azur
 ### [Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
 A Python scientific-computing project featuring reusable modules, visualization and automated testing. Implemented GitHub Actions CI, Docker image publishing to GHCR and Kubernetes Job deployments on OpenShift.
-
----
-
-[![The Choice CI](https://dev.azure.com/intontis-devops/The%20Choice/_apis/build/status/1?branchName=main&label=The%20Choice%20CI)](https://dev.azure.com/intontis-devops/The%20Choice/_build/latest?definitionId=1&branchName=main)
-
-[![Monte Carlo - Tests and Container](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml/badge.svg)](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml)
