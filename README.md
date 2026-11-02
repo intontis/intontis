@@ -30,7 +30,7 @@ I'm a physicist expanding my expertise into **DevOps, Cloud Engineering and Auto
 
 ## Projects
 
-### [The Choice - Azure CI/CD & GitOps](https://github.com/intontis/The_Choice_Azure_CICD)
+### [The Choice](https://github.com/intontis/The_Choice_Azure_CICD)
 
 An interactive Flask and PostgreSQL application used to build an end-to-end Azure DevOps and GitOps workflow. Automated testing, Docker image publishing to ACR, GitHub manifest updates and Argo CD deployments to AKS.
 
