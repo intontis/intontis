@@ -40,6 +40,6 @@ A Python scientific-computing project featuring reusable modules, visualization 
 
 ---
 
-[![Build Status](https://dev.azure.com/intontis-devops/The%20Choice/_apis/build/status%2Fintontis.The_Choice_Azure_CICD?branchName=main)](https://dev.azure.com/intontis-devops/The%20Choice/_build/latest?definitionId=1&branchName=main)
+[![The Choice CI](https://dev.azure.com/intontis-devops/The%20Choice/_apis/build/status/1?branchName=main&label=The%20Choice%20CI)](https://dev.azure.com/intontis-devops/The%20Choice/_build/latest?definitionId=1&branchName=main)
 
 [![Monte Carlo - Tests and Container](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml/badge.svg)](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml)
