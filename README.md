@@ -39,3 +39,7 @@ An interactive Flask and PostgreSQL application used to build an end-to-end Azur
 A Python scientific-computing project featuring reusable modules, visualization and automated testing. Implemented GitHub Actions CI, Docker image publishing to GHCR and Kubernetes Job deployments on OpenShift.
 
 ---
+
+## Current Focus
+
+Continuing to develop my practical knowledge of DevOps and cloud engineering through hands-on projects, with an emphasis on Linux, Kubernetes, CI/CD automation, GitOps and cloud infrastructure.
