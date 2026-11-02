@@ -62,8 +62,6 @@ A Python scientific-computing project featuring reusable modules, visualization 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
-## CI Status
-
 [![The Choice - Tests, Container & GitOps](https://dev.azure.com/intontis-devops/The%20Choice/_apis/build/status/the_choice_Azure_CICD?branchName=main&label=The%20Choice%20CI)](https://dev.azure.com/intontis-devops/The%20Choice/_build)
 
 [![Monte Carlo - Tests and Container](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml/badge.svg)](https://github.com/intontis/Monte_Carlo_Simulations/actions/workflows/tests.yml)
