@@ -32,19 +32,11 @@ I'm a physicist expanding my expertise into **DevOps, Cloud Engineering and Auto
 
 ### [The Choice — Azure CI/CD & GitOps](https://github.com/intontis/The_Choice_Azure_CICD)
 
-An interactive branching-choice web application built with Python, Flask and PostgreSQL, developed as an end-to-end Azure DevOps and GitOps portfolio project.
-
-Implemented an automated CI/CD pipeline using Azure Pipelines, with PostgreSQL-backed integration testing, Docker image builds and automated publishing to Azure Container Registry (ACR). Integrated GitHub-based GitOps workflows, where successful builds automatically update Kubernetes deployment manifests. Argo CD detects repository changes and synchronizes deployments to Azure Kubernetes Service (AKS).
-
-Demonstrates Workload Identity Federation, Kubernetes Deployments and StatefulSets, persistent storage, ConfigMaps, Secrets, automated rollouts and GitOps-based continuous delivery.
+An interactive Flask and PostgreSQL application used to build an end-to-end Azure DevOps and GitOps workflow. Automated testing, Docker image publishing to ACR, GitHub manifest updates and Argo CD deployments to AKS.
 
 ### [Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
-A Python project featuring reusable modules, scientific computing, automated testing and data visualization.
-
-Implemented a GitHub Actions CI pipeline with Ruff, pytest, an 80% coverage gate and a Python 3.12–3.14 test matrix. Built and published container images to GitHub Container Registry (GHCR), then deployed and validated Kubernetes Jobs with persistent storage on OpenShift.
-
-Developed in RHEL 10.2 under WSL2 using an isolated Python virtual environment.
+A Python scientific-computing project featuring reusable modules, visualization and automated testing. Implemented GitHub Actions CI, Docker image publishing to GHCR and Kubernetes Job deployments on OpenShift.
 
 ---
 
