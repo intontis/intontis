@@ -37,3 +37,5 @@ An interactive Flask and PostgreSQL application used to build an end-to-end Azur
 ### [Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
 A Python scientific-computing project featuring reusable modules, visualization and automated testing. Implemented GitHub Actions CI, Docker image publishing to GHCR and Kubernetes Job deployments on OpenShift.
+
+---
