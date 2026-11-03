@@ -8,7 +8,7 @@ I'm a physicist expanding my expertise into **DevOps, Cloud Engineering and Auto
 
 ## Technologies & Technical Experience
 
-**Python** — Scientific computing, data analysis, numerical methods, scripting and automation.
+**Python** — Scientific computing, data analysis, numerical methods, scripting and automation
 
 **Linux & Bash** — RHEL, WSL2, shell scripting, system administration and process management
 
@@ -42,4 +42,4 @@ A Python scientific-computing project featuring reusable modules, visualization 
 
 ## Current Focus
 
-Continuing to develop my practical knowledge of DevOps and cloud engineering through hands-on projects, with an emphasis on Linux, Kubernetes, CI/CD automation, GitOps and cloud infrastructure.
+Continuing to develop my practical knowledge of DevOps and cloud engineering through hands-on projects
