@@ -32,11 +32,11 @@ I'm a physicist expanding my expertise into **DevOps, Cloud Engineering and Auto
 
 ### [The Choice](https://github.com/intontis/The_Choice_Azure_CICD)
 
-An interactive Flask and PostgreSQL application used to build an end-to-end Azure DevOps and GitOps workflow. Automated testing, Docker image publishing to ACR, GitHub manifest updates and Argo CD deployments to AKS.
+An interactive Flask and PostgreSQL application deployed to Azure Kubernetes Service (AKS). Implemented an Azure Pipelines CI/CD workflow with automated testing, container publishing to Azure Container Registry (ACR), GitHub-based GitOps updates and Argo CD deployments.
 
 ### [Monte Carlo Simulations](https://github.com/intontis/monte_carlo_simulations)
 
-A Python scientific-computing project featuring reusable modules, visualization and automated testing. Implemented GitHub Actions CI, Docker image publishing to GHCR and Kubernetes Job deployments on OpenShift.
+A Python scientific-computing project featuring Monte Carlo π estimation and Rutherford particle-scattering simulations. Implemented reusable modules, automated testing with pytest, Ruff code-quality checks and an 80% coverage gate. Added GitHub Actions CI, container publishing to GHCR and Kubernetes Job deployments on OpenShift.
 
 ---
 
