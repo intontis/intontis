@@ -10,21 +10,21 @@ I'm a physicist expanding my expertise into **DevOps, Cloud Engineering and Auto
 
 **Python** — Scientific computing, data analysis, numerical methods, scripting and automation.
 
-**Linux & Bash** — RHEL, WSL2, shell scripting, system administration and process management.
+**Linux & Bash** — RHEL, WSL2, shell scripting, system administration and process management
 
-**Git & GitHub** — Version control, repository management, branching workflows, GitHub Actions and automated CI.
+**Git & GitHub** — Version control, repository management and branching workflows
 
-**Testing & Code Quality** — pytest, test coverage, Ruff, automated testing and quality gates.
+**CI/CD & GitOps** — GitHub Actions, Azure Pipelines, automated build and deployment workflows, Argo CD and GitOps principles
 
-**Containers & Containerization** — Docker, Podman, Dockerfiles, container builds, image registries and container workflows.
+**Containers & Containerization** — Docker, Podman, Dockerfiles, container builds, image registries and container workflows
 
-**Kubernetes & OpenShift** — Container orchestration, Deployments, StatefulSets, Jobs, persistent volumes, services and application rollout management.
+**Kubernetes & OpenShift** — Container orchestration, Deployments, StatefulSets, Jobs, persistent volumes, services and application rollout management
 
-**CI/CD & GitOps** — GitHub Actions, Azure Pipelines, automated build and deployment workflows, Argo CD and GitOps principles.
+**Testing & Code Quality** — pytest, test coverage, Ruff, automated testing and quality gates
 
-**Helm** — Kubernetes charts, application packaging, templating and configurable deployments.
+**Cloud Technologies** — Microsoft Azure, Azure Kubernetes Service (AKS), Azure Container Registry (ACR), AWS EC2, cloud infrastructure and networking fundamentals
 
-**Cloud Technologies** — Microsoft Azure, Azure Kubernetes Service (AKS), Azure Container Registry (ACR), AWS EC2, cloud infrastructure and networking fundamentals.
+**Helm** — Kubernetes charts, application packaging, templating and configurable deployments
 
 ---
 
