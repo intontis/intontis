@@ -16,7 +16,7 @@ I'm a physicist expanding my expertise into **DevOps, Cloud Engineering and Auto
 
 **CI/CD & GitOps** — GitHub Actions, Azure Pipelines, automated build and deployment workflows, Argo CD and GitOps principles
 
-**Containers & Containerization** — Docker, Podman, Dockerfiles, container builds, image registries and container workflows
+**Containers & Registries** — Docker, Podman, Dockerfiles, container builds, image registries and container workflows
 
 **Kubernetes & OpenShift** — AKS application deployments and test Jobs on OpenShift Developer Sandbox
 
