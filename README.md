@@ -18,13 +18,12 @@ I'm a physicist expanding my expertise into **DevOps, Cloud Engineering and Auto
 
 **Containers & Containerization** — Docker, Podman, Dockerfiles, container builds, image registries and container workflows
 
-**Kubernetes & OpenShift** — Container orchestration, Deployments, StatefulSets, Jobs, persistent volumes, services and application rollout management
+**Kubernetes & OpenShift** — AKS application deployments and test Jobs on OpenShift Developer Sandbox
 
 **Testing & Code Quality** — pytest, test coverage, Ruff, automated testing and quality gates
 
 **Cloud Technologies** — Microsoft Azure, Azure Kubernetes Service (AKS), Azure Container Registry (ACR), AWS EC2, cloud infrastructure and networking fundamentals
 
-**Helm** — Kubernetes charts, application packaging, templating and configurable deployments
 
 ---
 
