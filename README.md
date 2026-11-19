@@ -22,7 +22,7 @@ I'm a physicist expanding my expertise into **DevOps, Cloud Engineering and Auto
 
 **Testing & Code Quality** — pytest, test coverage, Ruff, automated testing and quality gates
 
-**Cloud Technologies** — Microsoft Azure, Azure Kubernetes Service (AKS), Azure Container Registry (ACR), AWS EC2, cloud infrastructure and networking fundamentals
+**Cloud Technologies** — Microsoft Azure, Azure Kubernetes Service (AKS), Azure Container Registry (ACR), cloud infrastructure and networking fundamentals
 
 
 ---
